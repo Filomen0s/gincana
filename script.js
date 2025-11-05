@@ -78,7 +78,7 @@ form.addEventListener('submit', async (e) => {
 
 async function deletarUsuario(id) {
   if (confirm('Deseja realmente excluir este usuário?')) {
-    await fetch(`${API_URL}/${id}`, { method: '' });
+    await fetch(`http://localhost:3000/usuarios/${id}`, { method: 'DELETE' });
     carregarUsuarios();
   }
 }
