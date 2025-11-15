@@ -1,9 +1,1 @@
-# gincana
-
-Este é um ____ para a gincana. 
-
-Existem vários ____ que estão com algumas partes faltando
-
-Então todos os grupos precisam ____ essas partes e _____ para que o código funcione _____
-
-Quem ____ primeiro recebe a pontuação 
+Esse é um projeto que utiliza um CRUD e faz conexão com o banco de dados PostgreSQL, podendo Adicionar, Ler, Atualizar e Deletar usuários do sistema.
