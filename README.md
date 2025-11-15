@@ -1,2 +1,9 @@
-Este é um CRUD com conexão com o banco de dados PostgreSQL em que é possivel Criar, Ler, Atualizar e Deletar usuários do sistema.
+# gincana
 
+Este é um ____ para a gincana. 
+
+Existem vários ____ que estão com algumas partes faltando
+
+Então todos os grupos precisam ____ essas partes e _____ para que o código funcione _____
+
+Quem ____ primeiro recebe a pontuação 
